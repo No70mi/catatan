@@ -1,0 +1,100 @@
+General
+Unique ID                                : 80764980937205384936717474453076477100 (0x3CC2C4FF8E77274BCD2149ACC1AA84AC)
+Complete name                            : Salinan [Noromi] Hyoryu Danchi [BD][FHD AACx2][05C8C928].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 2.41 GiB
+Duration                                 : 1 h 59 min
+Overall bit rate                         : 2 883 kb/s
+Movie name                               : [Noromi] Lebatnya Hujan Hanyutkan Rusunawa
+Encoded date                             : UTC 2024-01-18 17:26:47
+Writing application                      : mkvmerge v81.0 ('Milliontown') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+Attachments                              : creation.ttf / Faible-Black.ttf / FOT-SEURATPRO-UB(C).TTF / GIL_.TTF / GILB.TTF / KGHAPPYSolid.ttf / MichaelMarkerLite-Regular.ttf / MSUIGHUR.TTF / OCRAEXT.TTF / Poppins-Medium.ttf / Poppins-Regular.otf / stone-sans-semi-bold-italic.ttf / stone-sans-semi-bold-regular.ttf / AllThatMatters.ttf / Casino Hand.1.otf / cheyenne.ttf
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L4.1@High
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 1 h 59 min
+Width                                    : 1 920 pixels
+Height                                   : 872 pixels
+Display aspect ratio                     : 2.2:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Title                                    : Presented By EMBER
+Writing library                          : x265 2.4+14-bc0e9bd7c08f5ddc:[Windows][GCC 6.3.0][64 bit] 10bit: KG7x [x265.ru]
+Encoding settings                        : cpuid=1173503 / frame-threads=3 / numa-pools=8 / wpp / no-pmode / no-pme / no-psnr / no-ssim / log-level=2 / input-csp=1 / input-res=1920x872 / interlace=0 / total-frames=0 / level-idc=41 / high-tier=1 / uhd-bd=0 / ref=4 / no-allow-non-conformance / no-repeat-headers / annexb / no-aud / no-hrd / info / hash=0 / no-temporal-layers / open-gop / min-keyint=23 / keyint=250 / bframes=8 / b-adapt=2 / b-pyramid / bframe-bias=0 / rc-lookahead=60 / lookahead-slices=4 / scenecut=40 / no-intra-refresh / ctu=64 / min-cu-size=8 / rect / no-amp / max-tu-size=32 / tu-inter-depth=2 / tu-intra-depth=2 / limit-tu=4 / rdoq-level=2 / dynamic-rd=0.00 / no-ssim-rd / signhide / no-tskip / nr-intra=0 / nr-inter=0 / no-constrained-intra / no-strong-intra-smoothing / max-merge=3 / limit-refs=3 / limit-modes / me=3 / subme=3 / merange=57 / temporal-mvp / weightp / no-weightb / no-analyze-src-pics / deblock=0:-1 / no-sao / no-sao-non-deblock / rd=4 / no-early-skip / rskip / no-fast-intra / no-tskip-fast / no-cu-lossless / no-b-intra / rdpenalty=0 / psy-rd=1.20 / psy-rdoq=2.00 / no-rd-refine / analysis-mode=0 / no-lossless / cbqpoffs=0 / crqpoffs=0 / rc=crf / crf=19.0 / qcomp=0.60 / qpstep=4 / stats-write=0 / stats-read=0 / vbv-maxrate=50000 / vbv-bufsize=50000 / vbv-init=0.9 / crf-max=0.0 / crf-min=0.0 / ipratio=1.40 / pbratio=1.30 / aq-mode=3 / aq-strength=0.90 / cutree / zone-count=0 / no-strict-cbr / qg-size=32 / no-rc-grain / qpmax=69 / qpmin=0 / sar=0 / overscan=0 / videoformat=5 / range=0 / colorprim=1 / transfer=1 / colormatrix=1 / chromaloc=0 / display-window=0 / max-cll=0,0 / min-luma=0 / max-luma=1023 / log2-max-poc-lsb=8 / vui-timing-info / vui-hrd-info / slices=1 / opt-qp-pps / opt-ref-list-length-pps / no-multi-pass-opt-rps / scenecut-bias=0.05 / no-opt-cu-delta-qp / no-aq-motion / no-hdr / no-hdr-opt / no-dhdr10-opt / refine-level=5 / no-limit-sao / ctu-info=0
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 1 h 59 min
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Title                                    : Audio Indonesia
+Language                                 : Indonesian
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 1 h 59 min
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Title                                    : Audio Jepang
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : ASS
+Codec ID                                 : S_TEXT/ASS
+Codec ID/Info                            : Advanced Sub Station Alpha
+Compression mode                         : Lossless
+Title                                    : Dubtitle
+Language                                 : Indonesian
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 5
+Format                                   : ASS
+Codec ID                                 : S_TEXT/ASS
+Codec ID/Info                            : Advanced Sub Station Alpha
+Compression mode                         : Lossless
+Title                                    : Subtitle
+Language                                 : Indonesian
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : :[Noromi] Persembahkan
+00:00:21.000                             : :[Noromi] Prolog
+00:02:46.940                             : :[Noromi] Pembuka
+00:04:30.710                             : :[Noromi] Isi Cerita
+01:52:48.780                             : :[Noromi] Penutup
